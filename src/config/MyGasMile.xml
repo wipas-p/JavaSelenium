@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="test grid" parallel="test">
+	<test name="Test Node1">
+		<classes>
+			<class name="grid.Node1"></class>
+		</classes>
+	</test>
+	<test name="Test Node2">
+		<classes>
+			<class name="grid.Node2"></class>
+		</classes>
+	</test>
+	<test name="Test Node2">
+		<classes>
+			<class name="grid.Node2"></class>
+		</classes>
+	</test>
+</suite>
